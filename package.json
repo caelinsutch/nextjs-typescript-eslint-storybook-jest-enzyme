@@ -10,7 +10,7 @@
     "storybook": "start-storybook -p 6006"
   },
   "dependencies": {
-    "next": "10.0.5",
+    "next": "10.0.6",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
