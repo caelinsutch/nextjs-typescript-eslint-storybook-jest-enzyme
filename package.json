@@ -15,12 +15,12 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@babel/core": "7.16.0",
-    "@babel/plugin-transform-runtime": "7.16.4",
-    "@babel/preset-env": "7.16.4",
-    "@babel/preset-flow": "7.16.0",
-    "@babel/preset-react": "7.16.0",
-    "@babel/preset-typescript": "7.16.0",
+    "@babel/core": "7.16.5",
+    "@babel/plugin-transform-runtime": "7.16.5",
+    "@babel/preset-env": "7.16.5",
+    "@babel/preset-flow": "7.16.5",
+    "@babel/preset-react": "7.16.5",
+    "@babel/preset-typescript": "7.16.5",
     "@storybook/addon-controls": "6.4.9",
     "@storybook/addon-essentials": "6.4.9",
     "@storybook/addon-links": "6.4.9",
