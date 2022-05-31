@@ -27,7 +27,7 @@
     "@storybook/react": "6.5.6",
     "@types/enzyme": "3.10.12",
     "@types/jest": "26.0.24",
-    "@types/node": "14.18.18",
+    "@types/node": "14.18.20",
     "@types/react": "17.0.45",
     "@typescript-eslint/eslint-plugin": "4.33.0",
     "@typescript-eslint/parser": "4.33.0",
